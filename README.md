@@ -1,2 +1,2 @@
-# SoftUni Homework
- This is my homework from SoftUni.
+# SoftUni Programming Basics course Homework from SoftUni.
+
