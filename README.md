@@ -1,4 +1,4 @@
-# SoftUni Programming Basics course Homework.
+# SoftUni Programming Basics course 
 
 - Working with the console (data input and output)
 - Working with loops (for)
